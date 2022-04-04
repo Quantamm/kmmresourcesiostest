@@ -1,0 +1,9 @@
+module/src/androidMain/kotlin/com/hcl/mobile/common/localization/KMMResourcesLocalization.kt
+module/src/commonMain/kotlin/com/hcl/mobile/common/localization/KMMResourcesLocalization.kt
+module/src/iosMain/kotlin/com/hcl/mobile/common/localization/KMMResourcesLocalization.kt
+module/src/commonMain/resources/ios/
+module/src/androidMain/res/values*/strings.xml
+build/
+.gradle
+.idea
+local.properties
